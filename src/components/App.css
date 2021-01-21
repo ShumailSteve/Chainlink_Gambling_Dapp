@@ -1,0 +1,12 @@
+body {
+  background-color: gray;
+}
+
+br {
+  display: block;
+  margin: -4px;
+}
+
+div {
+  word-wrap: break-word;
+}
